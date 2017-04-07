@@ -1,5 +1,5 @@
 ---
-title: "Lab8"
+title: "lab8"
 author: ""
 date: ""
 output: 
@@ -19,4 +19,4 @@ includeSourceDocuments()
 <!-- Don't edit the material above this line -->
 
 
-I love stat133 and I love Berkeley.
+This is Lab 8 and I love Berkeley.
